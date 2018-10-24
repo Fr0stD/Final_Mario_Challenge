@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - player
+  - Coin
+  - CoinBox
+  - Goomba
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - CoinBox
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3214697171
+    locked: 0
+  - name: Clouds
+    uniqueID: 4092313885
+    locked: 0
+  - name: Castle
+    uniqueID: 637305877
+    locked: 0
+  - name: Bushes
+    uniqueID: 2137132851
+    locked: 0
+  - name: Ground
+    uniqueID: 3540402235
+    locked: 0
+  - name: Dead Box
+    uniqueID: 364078663
+    locked: 0
+  - name: Floating Floors
+    uniqueID: 2278486237
+    locked: 0
+  - name: Coin Boxes
+    uniqueID: 1332695711
+    locked: 0
+  - name: Flag
+    uniqueID: 4128739881
+    locked: 0
+  - name: Pipes
+    uniqueID: 3616422449
+    locked: 0
+  - name: Goomba
+    uniqueID: 333871965
+    locked: 0
+  - name: Player
+    uniqueID: 3982226763
+    locked: 0
